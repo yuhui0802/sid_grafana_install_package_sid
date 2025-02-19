@@ -38,3 +38,11 @@ datasources:
   isDefault: false
   access: proxy
   editable: true
+
+- name: tempo
+  type: tempo
+  url: http://tempo:3200
+  isDefault: false
+  access: proxy
+  editable: true
+  uid: P8D6546721A1D106C
